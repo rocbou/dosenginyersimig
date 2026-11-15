@@ -35,11 +35,7 @@ Agent de control (`BatteryAgent`) per al repte **UPC Sostenible**: decidir hora 
 .
 ├── agent.py               # BatteryAgent (el que s'envia)
 ├── parametres.json        # taules de perfils, coeficients i hiperparàmetres (el que s'envia)
-├── EXPLICACIO_CODI.md     # explicació del codi bloc a bloc
 ├── README.md              # aquest document
-└── eines/                 # opcional, NO s'envia a la web
-    ├── validar.py         # banc de proves local (replay + sostre d'oracle)
-    └── explorar.py        # prova d'hiperparàmetres amb criteri anti-sobreajust
 ```
 
 **Lliurament:** `submission.zip` amb `agent.py` i `parametres.json` **a l'arrel** (sense subcarpetes).
