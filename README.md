@@ -1,4 +1,5 @@
 # Repte UPC Sostenible: Optimització de la Bateria del Campus
+
 ## Datathon 2026 — Transició Energètica i Descarbonització
 
 Repositori oficial del repte d'optimització energètica, ciència de dades i transició ecològica promogut per **UPC Sostenible** per a la gestió d'una bateria industrial de 2.000 kWh i 500 kW connectada al campus de la Universitat Politècnica de Catalunya.
