@@ -57,8 +57,6 @@ obs ──► memòria ──► previsió 24 h ──► pes w = 0,7·CO2/CB + 
 5. **Valor terminal.** L'energia que sobra a l'hora 24 es valora a `lam·η·mitjana(w)` per kWh; `lam = 0` quan l'horitzó coincideix amb el final d'una setmana amb reinici o amb la simulació.
 6. **Acció.** Només s'aplica la decisió de l'hora actual (horitzó lliscant) i es passa pel clamp físic.
 
-Explicació detallada, línia per línia: **[`EXPLICACIO_CODI.md`](EXPLICACIO_CODI.md)**.
-
 ## 5. `parametres.json`: què conté i per què
 
 | Clau | Forma | Què representa | Justificació |
