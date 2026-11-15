@@ -2,7 +2,7 @@
 
 Agent de control (`BatteryAgent`) per al repte **UPC Sostenible**: decidir hora a hora la potència de càrrega o descàrrega d'una bateria industrial al Campus Nord per **reduir emissions de CO₂ (70 %)** i **cost de la factura (30 %)**.
 
-> **Equip:** Dos enginyers i mig · **Autors:** _(omple els noms)_
+> **Equip:** Dos enginyers i mig · **Autors:** Andoni Pon, Didac Munne, Joan Garrido, Roc Bou
 > **Resultat públic (Mode Difícil):** 23,73 pts.
 
 ---
